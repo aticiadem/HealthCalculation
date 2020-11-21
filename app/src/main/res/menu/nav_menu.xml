@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_bazalmetabolizmahizi"
+        android:title="Bazal Metabolizma Hızı Hesapla"/>
+    <item android:id="@+id/nav_idealkilo"
+        android:title="İdeal Kilo Hesapla"/>
+    <item android:id="@+id/nav_vki"
+        android:title="Vücut Kitle Endeksi Hesapla"/>
+
+</menu>
